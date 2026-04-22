@@ -3,8 +3,8 @@
 Este projeto aplica técnicas de Processamento de Linguagem Natural (PLN) e Teoria dos Grafos para identificar e analisar as principais tecnologias, frameworks e conceitos citados em Trabalhos de Conclusão de Curso (TCCs) de computação e engenharia.
 
 ## 1. Integrantes do Grupo
-* João Paulo de Oliveira Cabral
-* Gustavo Quezado Gurgel Magalhaes
+* João Paulo de Oliveira Cabral (Responsável pelo código da extração das entidade e conexões e organização do repositório)
+* Gustavo Quezado Gurgel Magalhaes (Responsável pela gravação do vídeo e código da análise dos gráfos)
 
 ## 2. Descrição Detalhada das Atividades
 O projeto foi dividido em quatro fases principais de processamento de dados:
@@ -72,3 +72,9 @@ A forte co-ocorrência entre **Spring ↔ Framework** e a presença de **Postgre
 
 ### O Caso de Ferramentas de Nicho (Prisma)
 A entidade **Prisma** aparece no Top 5 de citações, mas possui **0 conexões únicas**. Isso sugere a presença de um trabalho altamente especializado que utiliza essa ferramenta de forma exaustiva, mas cujos termos de suporte não coincidiram com o dicionário global ou a ferramenta não foi citada em conjunto com outras tecnologias nos mesmos parágrafos, caracterizando-se como um "nó de nicho".
+
+
+## 5. Link do Vídeo
+Como orientado pelo professor aqui está o link do vídeo hospedado na plataforma Loom
+
+https://www.loom.com/share/752cd98474f849bcafb298e308b447b4
