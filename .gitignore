@@ -2,7 +2,6 @@ venv/
 
 *.pdf
 *.json
-*.png
 
 __pycache__/
 *.py[cod]
